@@ -1,2 +1,5 @@
-# Data--Analysis-Dashboard
- I developed a comprehensive project in Looker Studio, creating dashboard and multiple tables to analyze the data. This process involves several stages, including data preprocessing and data visualization. 
+# Oroers-Repoet-Data-Analysis (Interactive Dashbord creation using Google Looker Studio)
+
+## Project Objective
+
+This Orders Report dashboard is a comprehensive snapshot of business performance, designed to highlight how orders are distributed across regions, categories, segments, and time periods. 
