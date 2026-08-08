@@ -32,3 +32,21 @@ This Orders Report dashboard is a comprehensive snapshot of business performance
 - Made sure data is consistent and clean.
 - Created tables and charts according to the questions asked.
 - Set all the tables and charts in beautiful way.
+
+ ## Project Insight
+
+- Customer Focus: Corporate customers are the dominant segment (over 50%), meaning B2B sales drive the majority of revenue.
+- Product Focus: Furniture is the leading category (60.3%), showing strong demand compared to Technology and Office Supplies.
+- Geographic Focus: The East region contributes the largest share (32%), highlighting it as the strongest market.
+- City-Level Hotspots: New York, Philadelphia, Seattle, Chicago, and San Diego are key urban centers for orders.
+- Trend Analysis: Yearly and monthly charts reveal both long-term growth patterns and seasonal fluctuations, useful for forecasting.
+
+## Final Conclusion:
+
+- Corporate customers buying furniture in the East region are the biggest drivers of orders.
+- Furniture dominates sales, suggesting opportunities to expand product lines or upsell related categories.
+- Regional imbalance exists — the West region lags behind, indicating potential for targeted marketing or distribution improvements.
+- Seasonal demand patterns (visible in monthly trends) should guide inventory planning and promotional campaigns.
+- Top cities act as growth hubs, so focusing resources on these urban markets could maximize returns.
+
+
